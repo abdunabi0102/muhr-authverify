@@ -1,0 +1,21 @@
+# Muhr tizimi sozlamalari
+keys:
+  master_key_file: keys/master.key      # bosh kalit (zaxira nusxasini oling!)
+  registry_file: keys/registry.json     # mualliflar reestri (ID <-> ism)
+
+image:
+  checkpoint: runs/taklif/best.pt       # scripts/train_image.py natijasi
+  beta: null                            # null — checkpointdagi qiymat
+
+text:
+  model: Qwen/Qwen2.5-7B-Instruct       # o'zbek tilini yaxshi biladigan istalgan chat-model
+  load_in_4bit: false                   # GPU xotirasi kam bo'lsa true (bitsandbytes kerak)
+  gamma: 0.25
+  delta: 2.0
+  z_threshold: 4.0
+  max_new_tokens: 250
+  temperature: 0.7
+
+server:
+  host: 127.0.0.1
+  port: 7860
