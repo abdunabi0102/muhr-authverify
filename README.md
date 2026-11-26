@@ -1,9 +1,6 @@
 # Authenticated verification for deep image watermarks: code and results
 
 Code, Kaggle notebooks and result tables for the manuscript
-
-> K. Khasanov and A. Mukhamadiyev, "Authenticated Verification for Deep Image Watermarks with Exact False-Acceptance Bounds," submitted to *IEEE Transactions on Information Forensics and Security*, 2026.
-
 The repository contains:
 - the keyed codec: truncated HMAC tag, SIV-style AES-CTR, keyed permutation, keyed whitening and BCH;
 - a vectorised BCH decoder;
