@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "Authenticated Verification for Deep Image Watermarks: code and results"
+authors:
+  - family-names: Khasanov
+    given-names: Kamol
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO
+  - family-names: Mukhamadiyev
+    given-names: Abdinabi
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-25"
+preferred-citation:
+  type: article
+  title: "Authenticated Verification for Deep Image Watermarks with Exact False-Acceptance Bounds"
+  authors:
+    - family-names: Khasanov
+      given-names: Kamol
+    - family-names: Mukhamadiyev
+      given-names: Abdinabi
+  journal: "IEEE Transactions on Information Forensics and Security (submitted)"
+  year: 2026

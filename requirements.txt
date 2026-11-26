@@ -1,0 +1,25 @@
+# Install PyTorch first for your CUDA version: https://pytorch.org
+torch>=2.1
+torchvision
+numpy>=1.24
+scipy>=1.10
+pandas
+matplotlib
+pillow>=10.0
+pyyaml>=6.0
+cryptography>=41
+galois>=0.4
+bchlib>=1.0
+lpips>=0.1.4
+pytorch_msssim
+# baselines (Video Seal code base) 
+omegaconf
+einops
+av
+decord
+huggingface_hub
+# regeneration attacks (E9)
+diffusers
+transformers>=4.41.2
+accelerate
+compressai

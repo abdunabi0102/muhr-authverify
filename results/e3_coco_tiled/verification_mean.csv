@@ -1,0 +1,4 @@
+variant,mode,policy,mean_rate,ci_lo,ci_hi,wrong_author_accepts
+A,tiled,search,0.7585925925925926,0.7548888888888889,0.7622222222222222,0
+A,tiled,nosync,0.6231851851851851,0.6174814814814815,0.6289629629629628,0
+A,tiled,global_only,0.0,0.0,0.0,0

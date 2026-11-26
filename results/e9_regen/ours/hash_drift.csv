@@ -1,0 +1,8 @@
+attack,param,share_dist_gt3,median_dist
+yo'q,,0.0,0.0
+Regen-ctrl,512,0.0,0.0
+Regen-VAE,kl,0.0,0.0
+Regen-VAE,bmshj3,0.0,0.0
+Regen-VAE,cheng3,0.0,0.0
+Regen-Diff,0.1,0.0,0.0
+Regen-Diff,0.2,0.015,0.0

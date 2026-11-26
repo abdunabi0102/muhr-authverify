@@ -1,0 +1,55 @@
+mode,variant,attack,param,A_rate,variant_rate,A_only,variant_only,p_mcnemar,p_holm
+global,G8,yo'q,,0.992,0.998,0,3,0.25,1.0
+global,G8,JPEG,90,0.99,0.996,0,3,0.25,1.0
+global,G8,JPEG,70,0.988,0.994,0,3,0.25,1.0
+global,G8,JPEG,50,0.984,0.992,0,4,0.125,1.0
+global,G8,JPEG,30,0.982,0.988,1,4,0.375,1.0
+global,G8,WebP,80,0.99,0.994,0,2,0.5,1.0
+global,G8,WebP,50,0.984,0.994,0,5,0.0625,1.0
+global,G8,Gauss shovqini,0.02,0.994,0.996,1,2,1.0,1.0
+global,G8,Gauss shovqini,0.05,0.986,0.998,0,6,0.03125,0.6875
+global,G8,Xiralashtirish,1.0,0.992,0.998,0,3,0.25,1.0
+global,G8,Xiralashtirish,2.0,0.992,0.998,0,3,0.25,1.0
+global,G8,Median filtr,3,0.992,0.998,0,3,0.25,1.0
+global,G8,Median filtr,5,0.992,0.998,0,3,0.25,1.0
+global,G8,Kesish,0.8,0.986,0.996,0,5,0.0625,1.0
+global,G8,Kesish,0.6,0.144,0.526,26,217,1.0553634845749157e-38,2.8494814083522726e-37
+global,G8,Kesish,0.4,0.0,0.0,0,0,1.0,1.0
+global,G8,Masshtablash,0.5,0.992,0.998,0,3,0.25,1.0
+global,G8,Masshtablash,0.75,0.992,0.998,0,3,0.25,1.0
+global,G8,Masshtablash,1.5,0.992,0.998,0,3,0.25,1.0
+global,G8,Burish,5,0.98,0.994,0,7,0.015625,0.359375
+global,G8,Burish,15,0.852,0.946,1,48,1.7763568394002505e-13,4.440892098500626e-12
+global,G8,Burish,30,0.0,0.004,0,2,0.5,1.0
+global,G8,Gamma,0.8,0.992,0.996,0,2,0.5,1.0
+global,G8,Gamma,1.3,0.98,0.988,1,5,0.21875,1.0
+global,G8,Gistogramma tekislash,,0.74,0.892,5,81,9.578735725233634e-19,2.4904712885607448e-17
+global,G8,Ekran surati,,0.986,0.994,0,4,0.125,1.0
+global,G8,JPEG50+kesish0.7,,0.89,0.976,1,44,2.6147972675971687e-12,6.275513442233205e-11
+global,G9,yo'q,,0.992,0.998,0,3,0.25,1.0
+global,G9,JPEG,90,0.99,0.996,0,3,0.25,1.0
+global,G9,JPEG,70,0.988,0.994,0,3,0.25,1.0
+global,G9,JPEG,50,0.984,0.992,0,4,0.125,1.0
+global,G9,JPEG,30,0.982,0.992,0,5,0.0625,1.0
+global,G9,WebP,80,0.99,0.996,0,3,0.25,1.0
+global,G9,WebP,50,0.984,0.994,0,5,0.0625,1.0
+global,G9,Gauss shovqini,0.02,0.994,0.998,0,2,0.5,1.0
+global,G9,Gauss shovqini,0.05,0.986,0.998,0,6,0.03125,0.6875
+global,G9,Xiralashtirish,1.0,0.992,0.998,0,3,0.25,1.0
+global,G9,Xiralashtirish,2.0,0.992,0.998,0,3,0.25,1.0
+global,G9,Median filtr,3,0.992,0.998,0,3,0.25,1.0
+global,G9,Median filtr,5,0.992,0.998,0,3,0.25,1.0
+global,G9,Kesish,0.8,0.986,0.998,0,6,0.03125,0.6875
+global,G9,Kesish,0.6,0.144,0.644,19,269,1.0369016554893531e-57,2.7996344698212533e-56
+global,G9,Kesish,0.4,0.0,0.0,0,0,1.0,1.0
+global,G9,Masshtablash,0.5,0.992,0.998,0,3,0.25,1.0
+global,G9,Masshtablash,0.75,0.992,0.998,0,3,0.25,1.0
+global,G9,Masshtablash,1.5,0.992,0.998,0,3,0.25,1.0
+global,G9,Burish,5,0.98,0.994,0,7,0.015625,0.359375
+global,G9,Burish,15,0.852,0.952,0,50,1.7763568394002505e-15,4.440892098500626e-14
+global,G9,Burish,30,0.0,0.008,0,4,0.125,1.0
+global,G9,Gamma,0.8,0.992,0.996,0,2,0.5,1.0
+global,G9,Gamma,1.3,0.98,0.992,0,6,0.03125,0.6875
+global,G9,Gistogramma tekislash,,0.74,0.91,3,88,1.0151703314527744e-22,2.6394428617772133e-21
+global,G9,Ekran surati,,0.986,0.994,0,4,0.125,1.0
+global,G9,JPEG50+kesish0.7,,0.89,0.976,1,44,2.6147972675971687e-12,6.275513442233205e-11
